@@ -1,0 +1,13 @@
+Deterjan fiyat:20
+Makarna fiyat:50
+Sampuan fiyat:30
+Coca cola fiyat:40
+yag fiyat:130
+pirinc fiyat:50
+cikolata cesitleri  fiyat:10
+meyve cesitleri fiyat:10
+sebze cesitleri fiyat:20
+kraker cesitleri fiyat:5
+bisküvi çesitleri fiyat:12
+meyse suyu fiyat:5
+saç kremi fiyat:55
